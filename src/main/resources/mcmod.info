@@ -1,0 +1,16 @@
+[
+{
+  "modid": "metamorphadd",
+  "name": "Metamorph Addon",
+  "description": "更多伪装功能的添加",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lawaxi"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["metamorph"]
+}
+]

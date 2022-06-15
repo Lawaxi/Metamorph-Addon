@@ -1,0 +1,9 @@
+{
+  "minecraft:wither": {
+    "abilities": ["fly"],
+    "attack": "wither",
+    "action": "skullball",
+    "health": 500,
+    "hostile": true
+  }
+}
